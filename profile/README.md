@@ -25,7 +25,7 @@
 
 Desarrollado con Bun + Hono + `bun:sqlite` para el restaurante **Avanzar In Time** (Cuba).
 
-**[Ver DigitalMenu en GitHub →](https://github.com/bitbyte-studio/DigitalMenu)**
+**[Pide una demo de DigitalMenu por WhatsApp →](https://wa.me/5350328131)**
 
 ---
 
